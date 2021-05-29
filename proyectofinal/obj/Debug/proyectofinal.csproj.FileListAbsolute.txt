@@ -1,0 +1,15 @@
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\bin\Debug\proyectofinal.exe.config
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\bin\Debug\proyectofinal.exe
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\bin\Debug\proyectofinal.pdb
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal.csprojAssemblyReference.cache
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\MainWindow.g.cs
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\App.g.cs
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal_MarkupCompile.cache
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal_MarkupCompile.lref
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\MainWindow.baml
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal.g.resources
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal.Properties.Resources.resources
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal.csproj.GenerateResource.cache
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal.csproj.CoreCompileInputs.cache
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal.exe
+C:\Users\barah\Downloads\luna\proyectofinal\proyectofinal\obj\Debug\proyectofinal.pdb
